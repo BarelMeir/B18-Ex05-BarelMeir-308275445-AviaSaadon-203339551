@@ -1,0 +1,5 @@
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex05 Barel 308275445 Avia 203339551\B18_Ex05_Logic\obj\Debug\B18_Ex05_Logic.csprojResolveAssemblyReference.cache
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex05 Barel 308275445 Avia 203339551\B18_Ex05_Logic\bin\Debug\B18_Ex05_Logic.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex05 Barel 308275445 Avia 203339551\B18_Ex05_Logic\bin\Debug\B18_Ex05_Logic.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex05 Barel 308275445 Avia 203339551\B18_Ex05_Logic\obj\Debug\B18_Ex05_Logic.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex05 Barel 308275445 Avia 203339551\B18_Ex05_Logic\obj\Debug\B18_Ex05_Logic.pdb

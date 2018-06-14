@@ -1,0 +1,20 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 308275445 - Barel Meir
+Second Student Details: 203339551 - Avia Saadon
+Delivery Date.........: 10 - June - 2018
+Delivered In Delay....: No
+Delay Reason..........: -
+Visual Studio Version.: 2015
+Comments..............: Graphics and animation - we added picturs to describe the board state instead of "X/O/U/K". In addition we have added
+                        animation - after clicking the required move (and after checking if it is valid) the instrument looks like it is hoovers to the 
+						destenation going out of its origin. We did it by using a pictureBox that gets the originl image of the first button that was clicked, 
+						update the pictureBox image field to this image. Also the location of the pictureBox is set to the location of the first button, start a timer for the movement animation, and every timer
+						Tick we calculte if the picture box arrived to its required location, and if it is we stop the timer, making the pictureBox unvisiable and update the display. 
+
+						Computer movement logic: first it check which instrument will gain most points (by eating rival's instruments),
+						afterwards it checks if there is a soldier that may become a king. if it finds an instrument that gains at least one point 
+						it moves with it (it will be the instrument that would gain most points for this turn),
+						if all of its instruments gain 0 points it will move with the instrument that might become a king (if exists),
+						else it moves randommly (of its current valid moves). 
+=======================End Exercise Checking Report=========================
